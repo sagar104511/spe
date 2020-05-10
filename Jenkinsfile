@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        registry = "phoenix28/calculator"
+        registry = "sagar10451/spe_calc"
         registryCredential = 'dockerhub'
         dockerImage = ''
     }
